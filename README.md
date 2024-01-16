@@ -3,6 +3,7 @@
 Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 
 - 🌱 I’m currently learning Python
+- I'm passionate about crafting code and building meaningful projects. 
 - 👨🏽‍💻 I’m currently working on improving my tech skills;
 - 😍 I love challenges, solving logical problems, and exploring new Tech Stacks.💻
 
