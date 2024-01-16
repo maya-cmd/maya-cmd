@@ -2,13 +2,17 @@
 
 Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 
+- 🌱 I’m currently learning Python
+- 👨🏽‍💻 I’m currently working on improving my tech skills;
+- 😍 I love challenges, solving logical problems, and exploring new Tech Stacks.💻
+
 <!--
-**maya-cmd/maya-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Maya-cmd/maya-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🌱 I’m currently learning Python
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 😍 I love challanges, solving logical problems and exploring new Tech Stacks.💻
+- 👨🏽‍💻 I’m currently working on improving my tech skills;
+- 😍 I love challenges, solving logical problems, and exploring new Tech Stacks.💻
 
 
 <a href="https://https://twitter.com/Sheelah7">
