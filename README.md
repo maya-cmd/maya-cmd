@@ -19,10 +19,7 @@ Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
   <img align="left" alt="Sheelah Mogaka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
-
-
-## 👨‍💻 Languages and Tools
+  ## 👨‍💻 Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python3](https://img.shields.io/badge/python3-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
