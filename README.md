@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 
 
 ## Socials
-<a href="https://https://twitter.com/Sheelah7">
+<a href="https://twitter.com/Sheelah7">
   <img align="left" alt="Sheelah Mogaka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sheelah-mogaka-65695863/">
