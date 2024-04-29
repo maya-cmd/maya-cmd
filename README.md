@@ -2,6 +2,13 @@
 
 Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maya-cmd&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+
+<p align="right">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=maya-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="maya-cmd" />
+</p>
+
 - 🌱 I’m currently learning JavaScript
 - I'm passionate about crafting code and building meaningful projects. 
 - 👨🏽‍💻 I’m currently working on improving my tech skills;
