@@ -1,4 +1,4 @@
-### Hi there 👋 I am Sheelah Mogaka.
+# Hi there 👋 I am Sheelah Mogaka.
 
 Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 
@@ -18,6 +18,8 @@ Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 <a href="https://www.linkedin.com/in/sheelah-mogaka-65695863/">
   <img align="left" alt="Sheelah Mogaka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+
 
 
 ## 👨‍💻 Languages and Tools
