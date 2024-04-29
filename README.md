@@ -2,11 +2,13 @@
 
 Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 - I'm passionate about crafting code and building meaningful projects. 
 - 👨🏽‍💻 I’m currently working on improving my tech skills;
 - 😍 I love challenges, solving logical problems, and exploring new Tech Stacks.💻
 
+
+### Socials
 <a href="https://https://twitter.com/Sheelah7">
   <img align="left" alt="Sheelah Mogaka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
