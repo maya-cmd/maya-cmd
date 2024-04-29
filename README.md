@@ -5,10 +5,10 @@ Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript.
 - I'm passionate about crafting code and building meaningful projects. 
-- 👨🏽‍💻 I’m currently working on improving my tech skills;
-- 😍 I love challenges, solving logical problems, and exploring new Tech Stacks.💻
+- 👨🏽‍💻 I’m currently working on improving my tech skills.
+- 😍 I love challenges, solving logical problems, and exploring new Tech stacks 💻.
 
 
 ## Socials:
