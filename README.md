@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 - 😍 I love challenges, solving logical problems, and exploring new Tech Stacks.💻
 
 
-### Socials
+## Socials
 <a href="https://https://twitter.com/Sheelah7">
   <img align="left" alt="Sheelah Mogaka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,6 +21,7 @@ Welcome to my GitHub! I'm Sheelah Mogaka, a software engineering student at ALX.
 
 
 ## 👨‍💻 Languages and Tools
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python3](https://img.shields.io/badge/python3-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
