@@ -35,7 +35,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 
 ---
----
 
 ## 🚀 Key Projects
 
@@ -68,6 +67,25 @@ A lightweight Unix shell written in C, developed as part of the ALX program.
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maya-cmd&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
+---
+
+## 🏆 Achievements
+- ✅ Completed the ALX Software Engineering Program, a 12-month intensive in full-stack development and computer science fundamentals
+
+- 📘 Completed CS50: Introduction to Computer Science, strengthening core CS concepts like algorithms, memory, and data structures
+
+- 💻 Built over 15 projects in C, Python, and Bash, including low-level systems and backend services
+
+- 🌐 Specialized in Frontend Development for 3 months, focusing on HTML, CSS, JavaScript
+
+- ⚛️ Currently finalizing a React course, learning component-based architecture and modern UI workflows
+
+- 📂 Developed key projects like a custom Unix Shell in C and an AirBnB backend clone in Python
+
+- 🤝 Collaborated with remote teams using Git, GitHub, and agile-style workflows
+
+---
+
 ## 🤝 Let's Connect!
 I'm always excited to collaborate on innovative projects or discuss tech. Feel free to reach out or explore my repositories!
 
@@ -75,6 +93,8 @@ I'm always excited to collaborate on innovative projects or discuss tech. Feel f
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sheelah-mogaka-65695863/)
 - 🐦 Twitter/X: [X](https://x.com/Sheelah7)
 - ⭐ Check out my [repositories](https://github.com/maya-cmd?tab=repositories) and contribute!
+
+---
 <p align="right">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <img src="https://komarev.com/ghpvc/?username=maya-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="maya-cmd" />
