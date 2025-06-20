@@ -9,7 +9,7 @@
 </div>
 
 - 😍 I love challenges, solving logical problems, and exploring new Tech stack 💻.
-- 
+  
 - 🌱 Currently Learning: React, UI/UX fundamentals, and component-based architecture
 
 - 💻 Background: C, Python, Git, REST APIs, HTML, CSS, JavaScript
