@@ -4,7 +4,7 @@
   <p>Software Engineer | Frontend Developer</p>
   <p>Learning to Build Beautiful and Responsive Interfaces</p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=maya-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for maya-cmd" />
+    <img src="https://komarev.com/ghpvc/?username=buildwithmaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for buildwithmaya" />
   </p>
 </div>
 
@@ -38,7 +38,7 @@
 
 ## 🚀 Key Projects
 
-### [AirBnB Clone](https://github.com/maya-cmd/AirBnB_clone.git)
+### [AirBnB Clone](https://github.com/buildwithmaya/AirBnB_clone.git)
 A backend-focused ALX project replicating key features of the AirBnB platform using Python and JSON for data persistence.
 
 - Built a custom command-line interface to manage application data
@@ -47,7 +47,7 @@ A backend-focused ALX project replicating key features of the AirBnB platform us
 
 - Included error handling and input validation for stability
 
-### [Simple Shell](https://github.com/maya-cmd/simple_shell.git)
+### [Simple Shell](https://github.com/buildwithmaya/simple_shell.git)
 A lightweight Unix shell written in C, developed as part of the ALX program.
 
 - Supports basic built-in commands (cd, env, etc.)
@@ -59,13 +59,13 @@ A lightweight Unix shell written in C, developed as part of the ALX program.
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maya-cmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/apiusername=buildwithmaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maya-cmd&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maya-cmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maya-cmd&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithmaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=buildwithmaya&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maya-cmd&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=buildwithmaya&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
 ---
 
@@ -92,12 +92,12 @@ I'm always excited to collaborate on innovative projects or discuss tech. Feel f
 - 📧 Email: [Email](sheelah.mogaka@gmail.com)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sheelah-mogaka-65695863/)
 - 🐦 Twitter/X: [X](https://x.com/Sheelah7)
-- ⭐ Check out my [repositories](https://github.com/maya-cmd?tab=repositories) and contribute!
+- ⭐ Check out my [repositories](https://github.com/buildwithmaya?tab=repositories) and contribute!
 
 ---
 <p align="right">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <img src="https://komarev.com/ghpvc/?username=maya-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="maya-cmd" />
+  <img src="https://komarev.com/ghpvc/?username=buildwithmaya-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="buildwithmaya" />
 </p>
 <!--
 **Maya-cmd/maya-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
